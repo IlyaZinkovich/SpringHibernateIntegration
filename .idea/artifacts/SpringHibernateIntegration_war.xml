@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="SpringHibernateIntegration:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringHibernateIntegration.war">
+      <element id="artifact" artifact-name="SpringHibernateIntegration:war exploded" />
+    </root>
+  </artifact>
+</component>
